@@ -4,14 +4,14 @@
 
 ### PowerShell setup (Windows)
 
-[Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
-[Chocolatey](https://chocolatey.org/)
-[Posh Git](https://github.com/dahlbyk/posh-git)
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+- [Chocolatey](https://chocolatey.org/)
+- [Posh Git](https://github.com/dahlbyk/posh-git)
 Git for Windows
-[Oh My Posh](https://ohmyposh.dev/) - Prompt theme engine
-[Terminal Icons](https://github.com/devblackops/Terminal-Icons) - Folder and file icons
+- [Oh My Posh](https://ohmyposh.dev/) - Prompt theme engine
+- [Terminal Icons](https://github.com/devblackops/Terminal-Icons) - Folder and file icons
 z - Directory jumper
-[VSCodeBackup](https://github.com/luzkenin/VSCodeBackup)
+- [VSCodeBackup](https://github.com/luzkenin/VSCodeBackup)
 
 ### Oh My Posh Theme
 
