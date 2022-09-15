@@ -1,0 +1,13 @@
+{
+  "workbench.tree.indent": 20,
+  "editor.fontFamily": "Consolas",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "Dracula",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontSize": 16,
+  "editor.mouseWheelZoom": true,
+  "editor.linkedEditing": true
+}

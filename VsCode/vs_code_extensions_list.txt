@@ -1,0 +1,16 @@
+adpyke.vscode-sql-formatter
+ban.spellright
+dracula-theme.theme-dracula
+eamodio.gitlens
+EditorConfig.EditorConfig
+esbenp.prettier-vscode
+ms-vscode-remote.remote-containers
+ms-vscode.powershell
+ms-vscode.vscode-typescript-next
+shd101wyy.markdown-preview-enhanced
+streetsidesoftware.code-spell-checker
+taniarascia.new-moon-vscode
+vincaslt.highlight-matching-tag
+vscode-icons-team.vscode-icons
+yzhang.dictionary-completion
+yzhang.markdown-all-in-one
